@@ -3,7 +3,7 @@
 <vcfroot Description="2018 Dodge Charger Pursuit nForce M.F.G." Author="HDEH" >
 	<!-- INTERFACE -->
 	<INTERFACE>
-		<LstgActivationType>invert</LstgActivationType>
+		<LstgActivationType>manual</LstgActivationType>
 		<DefaultSirenMode>standby</DefaultSirenMode>
 		<InfoPanelHeaderColor>grey</InfoPanelHeaderColor>
 		<InfoPanelButtonLightColor>green</InfoPanelButtonLightColor>

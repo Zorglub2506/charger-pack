@@ -3,7 +3,7 @@
 <vcfroot Description="2018 Dodge Charger Pursuit nForce Federal Investigation Bureau" Author="HDEH" >
 	<!-- INTERFACE -->
 	<INTERFACE>
-		<LstgActivationType>invert</LstgActivationType>
+		<LstgActivationType>manual</LstgActivationType>
 		<DefaultSirenMode>standby</DefaultSirenMode>
 		<InfoPanelHeaderColor>grey</InfoPanelHeaderColor>
 		<InfoPanelButtonLightColor>blue</InfoPanelButtonLightColor>
