@@ -2,19 +2,10 @@
 ******************************************
 Description
 ******************************************
-This add-on pack includes 7 versions of a 2018 Dodge Charger Pursuit unmarked :
--California Highway Patrol (C.H.P.)
--Federal Investigation Bureau (F.I.B.)
--Los Angeles Fire Dept. Chief (L.A.F.D. Chief)
--National Office of Security Enforcement (N.O.o.S.E.)
--Secure Contain Protect Foundation (S.C.P. Foundation)
--Special Police Against Gangs (S.P.A.G.)
+This add-on pack includes 7 versions of a 2018 Dodge Charger Pursuit unmarked : California Highway Patrol (C.H.P.), Federal Investigation Bureau (F.I.B.), Los Angeles Fire Dept. Chief (L.A.F.D. Chief), National Office of Security Enforcement (N.O.o.S.E.), Secure Contain Protect Foundation (S.C.P. Foundation) and Special Police Against Gangs (S.P.A.G.).
 
 
-It comes with 6 peds :
--N.O.o.S.E. ped
--2 modern S.C.P. peds
--3 old S.C.P. peds
+It comes with 6 peds : N.O.o.S.E. ped, 2 modern S.C.P. peds and 3 old S.C.P. peds.
 
 
 It also includes one special edition : M.F.G. Edition.
